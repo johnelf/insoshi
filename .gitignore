@@ -32,4 +32,3 @@ sphinx/*
 sphinx_test/*
 config/ultrasphinx/*.conf
 *.swp
-Gemfile
